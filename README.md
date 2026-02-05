@@ -5,9 +5,6 @@ cat > README.md <<EOL
 This is a simple webpage running inside Docker using Nginx. 
 The page shows "Hello World" and demonstrates how to containerize a basic HTML page with Docker.
 
-## Screenshot
-![Webpage Screenshot](screenshot.png)
-
 ## How to Run
 1. Build Docker image:
 \`\`\`

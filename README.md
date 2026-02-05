@@ -1,4 +1,4 @@
-cat > README.md <<EOL
+
 # Dockerized Simple Webpage
 
 ## Project Overview

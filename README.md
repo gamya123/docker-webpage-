@@ -18,4 +18,4 @@ docker run -d -p 8080:80 --name webapp my-webpage
 
 3. Open in browser:
 http://localhost:8080
-EOL
+
